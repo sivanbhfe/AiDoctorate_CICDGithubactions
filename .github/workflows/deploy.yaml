@@ -1,4 +1,4 @@
-name: BuildTestDeploy_GithubActions
+name: BuildTestDeployGithubActions
 
 on: [push]
 
