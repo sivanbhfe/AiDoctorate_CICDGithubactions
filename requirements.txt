@@ -3,3 +3,4 @@
 flask
 gunicorn
 requests
+pyasn1-modules
